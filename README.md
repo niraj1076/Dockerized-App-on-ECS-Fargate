@@ -4,7 +4,7 @@ This project demonstrates an end-to-end container deployment workflow on AWS —
 
 ---
 
-![Architecture Diagram](ecs-farget.png)
+![Architecture Diagram]![Alt Text](ecs-farget.png)
 
 
 ---
