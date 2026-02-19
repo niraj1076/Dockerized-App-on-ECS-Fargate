@@ -4,6 +4,11 @@ This project demonstrates an end-to-end container deployment workflow on AWS —
 
 ---
 
+![Architecture Diagram](ecs-farget.png)
+
+
+---
+
 ## 📌 Project Overview
 
 Goal: Deploy a containerized Node.js application on AWS using modern DevOps best practices.
